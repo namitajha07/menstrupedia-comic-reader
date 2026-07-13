@@ -127,7 +127,7 @@ const COMIC_DATA = {
             },
             {
                 id: 8,
-                https://via.placeholder.com/800x1000?text=Comic+Page
+                image: " https://via.placeholder.com/800x1000?text=Comic+Page",
                 alt: "Priya washing her hands, changing her pad, and disposing of it properly in a covered bin. Step-by-step illustrations.",
                 narration: "Change your pad every 4 to 6 hours. Always wash your hands before and after. Wrap used pads in paper and dispose of them in a covered dustbin.",
                 chapterId: 3
