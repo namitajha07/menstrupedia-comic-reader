@@ -7,7 +7,7 @@
 const COMIC_DATA = {
     // Comic metadata
     meta: {
-        title: {
+        title: {                                                          
             en: "Menstrupedia Comic - Friendly Guide to Periods",
             hi: "मेंस्ट्रुपीडिया कॉमिक - पीरियड्स की दोस्ताना गाइड",
             mr: "मेन्स्ट्रुपीडिया कॉमिक - पाळीची मैत्रीपूर्ण मार्गदर्शिका",
@@ -201,7 +201,7 @@ const COMIC_DATA = {
             },
             {
                 id: 8,
-                image: "https://images.unsplash.com/photo-1517677208171-0bc12dd96194?w=800&h=1000&fit=crop",
+                image: "https://images.unsplash.com/https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&h=1000&fit=crop-0bc12dd96194?w=800&h=1000&fit=crop",
                 alt: "प्रिया अपने हाथ धो रही है, अपना पैड बदल रही है, और उसे ढके हुए बिन में सही तरीके से फेंक रही है।",
                 narration: "हर 4 से 6 घंटे में अपना पैड बदलें। हमेशा पहले और बाद में अपने हाथ धोएं। उपयोग किए गए पैड को कागज में लपेटें और ढके हुए कूड़ेदान में फेंक दें।",
                 chapterId: 3
@@ -275,7 +275,7 @@ const COMIC_DATA = {
             },
             {
                 id: 8,
-                image: "https://images.unsplash.com/photo-1517677208171-0bc12dd96194?w=800&h=1000&fit=crop",
+                image: "https://images.unsplash.com/https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&h=1000&fit=crop-0bc12dd96194?w=800&h=1000&fit=crop",
                 alt: "प्रिया हात धुत आहे, तिचा पॅड बदलत आहे, आणि त्याला योग्यरित्या झाकलेल्या कचऱ्याच्या डब्यात टाकत आहे.",
                 narration: "दर 4 ते 6 तासांनी तुमचा पॅड बदला. नेहमी आधी आणि नंतर हात धुवा. वापरलेला पॅड कागदात गुंडाळा आणि झाकलेल्या कचऱ्याच्या डब्यात टाका.",
                 chapterId: 3
@@ -349,7 +349,7 @@ const COMIC_DATA = {
             },
             {
                 id: 8,
-                image: "https://images.unsplash.com/photo-1517677208171-0bc12dd96194?w=800&h=1000&fit=crop",
+                image: "https://images.unsplash.com/https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&h=1000&fit=crop-0bc12dd96194?w=800&h=1000&fit=crop",
                 alt: "પ્રિયા હાથ ધોઈ રહી છે, તેનો પેડ બદલી રહી છે, અને તેને ઢકેલા કચરાપેટીમાં યોગ્ય રીતે ફેંકી રહી છે.",
                 narration: "દર 4 થી 6 કલાકે તમારો પેડ બદલો. હમેશા પહેલાં અને પછી હાથ ધોઓ. વપરાયેલો પેડ કાગળમાં લપેટો અને ઢકેલા કચરાપેટીમાં નાખો.",
                 chapterId: 3
